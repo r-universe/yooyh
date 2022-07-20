@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "bartcs"]
+	path = bartcs
+	url = https://github.com/yooyh/bartcs
+	shallow = true
+	registered = true
